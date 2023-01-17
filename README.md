@@ -25,5 +25,7 @@
     
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vitoriagomesz&bg_color=0d1117&color=cf88fe&line=40aede&point=fe8794&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+
+    
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CF88FE&height=120&section=footer"/>
   
