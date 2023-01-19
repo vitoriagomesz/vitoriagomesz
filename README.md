@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FE8794&center=true&vCenter=true&width=1000&lines=Hello%2C+Be+Welcome!+:%29;My+name+is+Vitoria+Gomes;I'm+19+years+old;I'm+from+Brazil;Studying+Interaction+Design)](https://git.io/typing-svg)
 
-<div style="align: center">  
+<div align= "center">  
   <a href="https://github.com/vitoriagomesz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitoriagomesz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriagomesz&layout=compact&langs_count=7&theme=dracula" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitoriagomesz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Vitoria Gomes github stats"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriagomesz&layout=compact&langs_count=7&theme=dracula" alt="Vitoria Gomes github languages"/>
 </div>
   
   <div style="display: inline_block"><br>
